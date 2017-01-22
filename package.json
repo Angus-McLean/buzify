@@ -1,0 +1,22 @@
+{
+  "name": "buzify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angus-McLean/buzify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angus-McLean/buzify/issues"
+  },
+  "homepage": "https://github.com/Angus-McLean/buzify#readme",
+  "dependencies": {
+    "async": "^2.1.4"
+  }
+}
